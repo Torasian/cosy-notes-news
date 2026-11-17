@@ -1,0 +1,735 @@
+{
+  "schemaVersion": 1,
+  "earlyBird": {
+    "endsOn": "2026-12-14",
+    "newPrices": {
+      "AFG": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "AGO": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "AIA": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "ALB": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "ARE": {
+        "price": "49.99",
+        "currency": "AED"
+      },
+      "ARG": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "ARM": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "ATG": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "AUS": {
+        "price": "19.99",
+        "currency": "AUD"
+      },
+      "AUT": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "AZE": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "BEL": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "BEN": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "BFA": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "BGR": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "BHR": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "BHS": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "BIH": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "BLR": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "BLZ": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "BMU": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "BOL": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "BRA": {
+        "price": "79.9",
+        "currency": "BRL"
+      },
+      "BRB": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "BRN": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "BTN": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "BWA": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "CAN": {
+        "price": "17.99",
+        "currency": "CAD"
+      },
+      "CHE": {
+        "price": "10",
+        "currency": "CHF"
+      },
+      "CHL": {
+        "price": "14990",
+        "currency": "CLP"
+      },
+      "CHN": {
+        "price": "88",
+        "currency": "CNY"
+      },
+      "CIV": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "CMR": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "COD": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "COG": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "COL": {
+        "price": "59900",
+        "currency": "COP"
+      },
+      "CPV": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "CRI": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "CYM": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "CYP": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "CZE": {
+        "price": "349",
+        "currency": "CZK"
+      },
+      "DEU": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "DMA": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "DNK": {
+        "price": "99",
+        "currency": "DKK"
+      },
+      "DOM": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "DZA": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "ECU": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "EGY": {
+        "price": "699.99",
+        "currency": "EGP"
+      },
+      "ESP": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "EST": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "FIN": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "FJI": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "FRA": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "FSM": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "GAB": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "GBR": {
+        "price": "12.99",
+        "currency": "GBP"
+      },
+      "GEO": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "GHA": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "GMB": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "GNB": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "GRC": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "GRD": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "GTM": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "GUY": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "HKG": {
+        "price": "98",
+        "currency": "HKD"
+      },
+      "HND": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "HRV": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "HUN": {
+        "price": "5990",
+        "currency": "HUF"
+      },
+      "IDN": {
+        "price": "249000",
+        "currency": "IDR"
+      },
+      "IND": {
+        "price": "1299",
+        "currency": "INR"
+      },
+      "IRL": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "IRQ": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "ISL": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "ISR": {
+        "price": "39.9",
+        "currency": "ILS"
+      },
+      "ITA": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "JAM": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "JOR": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "JPN": {
+        "price": "2000",
+        "currency": "JPY"
+      },
+      "KAZ": {
+        "price": "7990",
+        "currency": "KZT"
+      },
+      "KEN": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "KGZ": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "KHM": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "KNA": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "KOR": {
+        "price": "22000",
+        "currency": "KRW"
+      },
+      "KWT": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "LAO": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "LBN": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "LBR": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "LBY": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "LCA": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "LKA": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "LTU": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "LUX": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "LVA": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "MAC": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "MAR": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "MDA": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "MDG": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "MDV": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "MEX": {
+        "price": "299",
+        "currency": "MXN"
+      },
+      "MKD": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "MLI": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "MLT": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "MMR": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "MNE": {
+        "price": "11.99",
+        "currency": "EUR"
+      },
+      "MNG": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "MOZ": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "MRT": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "MSR": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "MUS": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "MWI": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "MYS": {
+        "price": "59.9",
+        "currency": "MYR"
+      },
+      "NAM": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "NER": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "NGA": {
+        "price": "19900",
+        "currency": "NGN"
+      },
+      "NIC": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "NLD": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "NOR": {
+        "price": "179",
+        "currency": "NOK"
+      },
+      "NPL": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "NRU": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "NZL": {
+        "price": "22.99",
+        "currency": "NZD"
+      },
+      "OMN": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "PAK": {
+        "price": "3500",
+        "currency": "PKR"
+      },
+      "PAN": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "PER": {
+        "price": "59.9",
+        "currency": "PEN"
+      },
+      "PHL": {
+        "price": "799",
+        "currency": "PHP"
+      },
+      "PLW": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "PNG": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "POL": {
+        "price": "59.99",
+        "currency": "PLN"
+      },
+      "PRT": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "PRY": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "QAT": {
+        "price": "49.99",
+        "currency": "QAR"
+      },
+      "ROU": {
+        "price": "69.99",
+        "currency": "RON"
+      },
+      "RUS": {
+        "price": "999",
+        "currency": "RUB"
+      },
+      "RWA": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "SAU": {
+        "price": "59.99",
+        "currency": "SAR"
+      },
+      "SEN": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "SGP": {
+        "price": "19.98",
+        "currency": "SGD"
+      },
+      "SLB": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "SLE": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "SLV": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "SRB": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "STP": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "SUR": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "SVK": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "SVN": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "SWE": {
+        "price": "179",
+        "currency": "SEK"
+      },
+      "SWZ": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "SYC": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "TCA": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "TCD": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "THA": {
+        "price": "499",
+        "currency": "THB"
+      },
+      "TJK": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "TKM": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "TON": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "TTO": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "TUN": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "TUR": {
+        "price": "699.99",
+        "currency": "TRY"
+      },
+      "TWN": {
+        "price": "390",
+        "currency": "TWD"
+      },
+      "TZA": {
+        "price": "39900",
+        "currency": "TZS"
+      },
+      "UGA": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "UKR": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "URY": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "USA": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "UZB": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "VCT": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "VEN": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "VGB": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "VNM": {
+        "price": "399000",
+        "currency": "VND"
+      },
+      "VUT": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "XKK": {
+        "price": "14.99",
+        "currency": "EUR"
+      },
+      "YEM": {
+        "price": "12.99",
+        "currency": "USD"
+      },
+      "ZAF": {
+        "price": "249.99",
+        "currency": "ZAR"
+      },
+      "ZMB": {
+        "price": "14.99",
+        "currency": "USD"
+      },
+      "ZWE": {
+        "price": "14.99",
+        "currency": "USD"
+      }
+    }
+  },
+  "announcements": [
+    {
+      "id": "early-bird-last-week",
+      "title": "One week of early bird left",
+      "message": "The full version goes up when Cosy Notes 2.0 launches on 15 December. Unlock it now and 2.0's full-version features are included.",
+      "button": {
+        "title": "Unlock Now",
+        "action": "unlock"
+      },
+      "audience": "free",
+      "startsAt": "2026-12-07",
+      "endsAt": "2026-12-14",
+      "maxAppVersion": "1.99"
+    },
+    {
+      "id": "2-0-is-here",
+      "title": "Cosy Notes 2.0 is here",
+      "message": "Update from the App Store to get the new Home, handwriting search, the Shop and more. Your notes come with you.",
+      "button": {
+        "title": "Open the App Store",
+        "url": "https://apps.apple.com/app/id6758512873"
+      },
+      "audience": "everyone",
+      "startsAt": "2026-12-15",
+      "maxAppVersion": "1.99"
+    }
+  ]
+}
